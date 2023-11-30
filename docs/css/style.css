@@ -1,8 +1,25 @@
-#minesweeper img{
-    width:80%;
-    height:80%;
+#minesweeper, #gamePacMan, #schereSteinPapier {
+    width: 500px;
+    height: 500px;
+}
+#titelPacMan {
+    width: 600px;
+    height: 500px;
 }
 
-.*{
-    background-color:burlywood;
+#titelSnake{
+    width: 700px;
+    height: 500px;
 }
+#snake{
+    width:450px;
+    height:500px;
+}
+#quiz {
+    width: 700px;
+    height: 500px;
+}
+.reveal {
+    background-color:cornflowerblue;
+}
+
